@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CarpeTelam/cv3-soap#readme",
   "dependencies": {
-    "easy-soap-request": "^3.3.2"
+    "easy-soap-request": "^3.3.2",
+    "xml-js": "^1.6.11"
   }
 }
