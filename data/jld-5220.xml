@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CV3Data version="2.0">
+    <request>
+        <authenticate>
+            <user></user>
+            <pass></pass>
+            <serviceID></serviceID>
+        </authenticate>
+    </request>
+    <products>
+        <product>
+            <SKU>PRE3001610</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE368023F</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4000142</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4000163</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4000211</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4004160</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4004165</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4007165</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>3</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4008300</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4009020</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4009025</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE4009051</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE5500103</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE5500301</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Backordered</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>1</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE5500302</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE5500303</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE6051017C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE801016M</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE811033C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE835010C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE846KR016C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE850014C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE850016C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE856014C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE856016C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE856T016C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE8889MFS</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006102</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006104</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006105</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006106</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006107</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006108</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006120</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9006166</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007057</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007065</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007067</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007071</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007072</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007073</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>7</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007091</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007092</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007093</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007131</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>9</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007132</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007133</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007135</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007140</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007141</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007142</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007143</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007149</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007173</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007174</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007175</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007221</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>7</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007285</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007400</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007402</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Backordered</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>3</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007404</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007410</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007412</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007414</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007420</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007422</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007424</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007430</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007432</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007442</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007540</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007541</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007547</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007552</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007553</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007600</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007601</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007602</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>3</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007603</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007604</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007605</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007606</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007607</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007608</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007609</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007610</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007611</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007612</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007614</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007615</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007616</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007617</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007618</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007619</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007622</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007627</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007631</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007632</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007633</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>PRE9007650</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+    </products>
+</CV3Data>
