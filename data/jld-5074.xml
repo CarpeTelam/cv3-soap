@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CV3Data version="2.0">
+    <request>
+        <authenticate>
+            <user></user>
+            <pass></pass>
+            <serviceID></serviceID>
+        </authenticate>
+    </request>
+    <products>
+        <product>
+            <SKU>ANS6015303</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>10</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>10</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS6034511</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>3</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS6116301</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS6116303</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS7823</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS7824</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS7826</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ANS7827</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ASP371215</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ASP373915</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ASTACT/50</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ASTLC-CT-25</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ASTLCH/C</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>ATH30010</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-0074-97</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-0569-31</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-0679-02</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-0679-60</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-0697-82</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-0871-31</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BEU0283-1886-31</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BIE1500984-001</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTL295507</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Backordered</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>12</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTL514610</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTL514650</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLBI012</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLBI-025</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLBI048</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLBIOG30CS</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLBP240</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLED-591-4</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLED592</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLED900CS</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLGG-551</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Discontinued</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLNV800CS</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>3</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLPGC103CM</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLPGC123WB</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLPGC153VO</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLPGF133BG</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLPI016</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>3</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLRD016CS</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLSC103</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>2</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLTRB200</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTLTRY100</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTI5609</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTI7052</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTI7134</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BTI7135</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF00320</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF00650</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF02300</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF02701</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF02782</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF05060</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF05080</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF05240</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF06141</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF06161</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF06164</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF06191</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF0688E</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF07420</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF07810</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF08910</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF30040</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF30495</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF30660</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF31790</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF37470</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF40541</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF44310</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF51960</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF55570</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF55630</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF56553</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF61755</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF61963</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF61990</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF62030</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF62700</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF62710</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF62725</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF62830</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF75210</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF77400</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF77410</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF77420</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF77430</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF77440</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF77450</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>In Stock</Status>
+                <Inventory>1</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF78250</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF78570</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF79410</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF79440</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF79500</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF79804</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF80151</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF80500</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF80510</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+
+        <product>
+            <SKU>BUF80910</SKU>
+            <ProdID></ProdID>
+            <InventoryControl ignore_backorder="false" inventory_control_exempt="true">
+                <Status>Out of Stock</Status>
+                <Inventory>0</Inventory>
+                <OutOfStockPoint></OutOfStockPoint>
+                <OnOrder>0</OnOrder>
+                <BackorderedDate></BackorderedDate>
+            </InventoryControl>
+        </product>
+    </products>
+</CV3Data>
