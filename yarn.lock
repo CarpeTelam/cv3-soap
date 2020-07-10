@@ -16,6 +16,11 @@ debug@=3.1.0:
   dependencies:
     ms "2.0.0"
 
+dotenv@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
+  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
+
 easy-soap-request@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/easy-soap-request/-/easy-soap-request-3.3.2.tgz#7d2932e5b7c120d5c32a7386b9e3359b3c7de3b3"
