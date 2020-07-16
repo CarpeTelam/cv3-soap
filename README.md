@@ -11,7 +11,7 @@ Simple nodejs library to make requests to the CV3 soap service for debugging pur
     CV3_PASS=<cv3-password>
     CV3_SERVICE_ID=<cv3-service-id>
     ```
-4. **NOTE** (`.env` should **NOT** be checked into the repo and has been added to the `.gitignore`)
+4. **NOTE:** `.env` should **NOT** be checked into the repo and has been added to the `.gitignore`
 3. Run `npm install` or `yarn`
 
 ## Usage
