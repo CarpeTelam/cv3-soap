@@ -19,3 +19,4 @@ Simple nodejs library to make requests to the CV3 soap service for debugging pur
 1. Add your XML file to the `./data/` diretory
 2. Update `xmlData` in `./bin/index.js` with the path to your xml file (e.g. `./data/jld-5053.xml`)
 3. Run `npm start` or `yarn start` to process your XML file and push the data to CV3
+4. The XML response will be output to the screen
