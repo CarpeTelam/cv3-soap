@@ -49,11 +49,11 @@ const requestHeaders = {
   'Accept': 'text/xml',
   'Content-Type': 'text/xml',
   'soapAction': 'https://service.commercev3.com/index.php/CV3Data',
-  'user-agent': 'Huey - node',
+  'user-agent': 'nodejs soap client',
 };
 
 (async () => {
-  const { response } = await soapRequest({ url, headers: requestHeaders, xml, timeout: 1000 });
+  const { response } = await soapRequest({ url, headers: requestHeaders, xml, timeout: 60000 });
   const { headers, body, statusCode } = response;
   console.log(headers);
   console.log(Buffer.from(xml2js(body, { compact: true })['SOAP-ENV:Envelope']['SOAP-ENV:Body']['ns1:CV3DataResponse']['return']['_text'], "base64").toString('ascii'));
