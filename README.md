@@ -5,7 +5,8 @@ Simple nodejs library to make requests to the CV3 soap service for debugging pur
 ## Installation
 
 1. Clone the repo
-2. Create a new dotenv file named `.env` with the following contents (this file should **NOT** be checked into git and has been added to the `.gitignore`)
+2. Create a new dotenv file named `.env` with the following contents:
+**NOTE** (this file should **NOT** be checked into the repo and has been added to the `.gitignore`)
 ```
 CV3_USER=<cv3-username>
 CV3_PASS=<cv3-password>
