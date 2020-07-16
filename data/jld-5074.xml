@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CV3Data version="2.0">
-    <request>
-        <authenticate>
-            <user></user>
-            <pass></pass>
-            <serviceID></serviceID>
-        </authenticate>
-    </request>
     <products>
         <product>
             <SKU>ANS6015303</SKU>
