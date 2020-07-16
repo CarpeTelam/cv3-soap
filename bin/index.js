@@ -2,10 +2,10 @@ const soapRequest = require("easy-soap-request");
 const fs = require("fs");
 const { js2xml, xml2js } = require("xml-js");
 
-const xmlData = "./data/jld-5053.xml"
+const xmlData = "./data/jld-5053.xml";
 
 require("dotenv").config({
-  path: `.env`
+  path: `.env`,
 });
 
 const _declaration = {
